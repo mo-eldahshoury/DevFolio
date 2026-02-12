@@ -1,8 +1,8 @@
-##🚀 DevFolio - Personal Portfolio
+#🚀 DevFolio - Personal Portfolio
 
 A modern, one-page portfolio template for developers and designers. This project is built to be fast, responsive, and easy to customize, showcasing your professional journey and projects in a clean layout.
 
-##🛠️ Built With
+#🛠️ Built With
 
 HTML5 & CSS3 - Semantic structure and custom styling.
 
@@ -14,7 +14,7 @@ Typed.js - Dynamic typing animations in the hero section.
 
 Waypoints & CounterUp - Scroll-triggered animations and statistics.
 
-##✨ Features
+#✨ Features
 
 Responsive Navigation: Smooth-scrolling navbar that adjusts for mobile devices.
 
