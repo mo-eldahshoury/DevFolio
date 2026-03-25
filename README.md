@@ -14,7 +14,7 @@ Typed.js - Dynamic typing animations in the hero section.
 
 Waypoints & CounterUp - Scroll-triggered animations and statistics.
 
-✨ Features
+✨ Features 
 
 Responsive Navigation: Smooth-scrolling navbar that adjusts for mobile devices.
 
